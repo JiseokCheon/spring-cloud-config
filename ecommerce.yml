@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000 # 토큰 지속 시간 (하루 24 * 60 * 60 * 1000)
-  secret: user_token_ecommerce
+  expiration_time: 864 # 토큰 지속 시간 (하루 24 * 60 * 60 * 1000)
+  secret: value1
 
 gateway:
   ip: 172.30.1.39
